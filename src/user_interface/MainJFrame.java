@@ -135,6 +135,7 @@ public class MainJFrame extends javax.swing.JFrame {
     private void btnSignupActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSignupActionPerformed
         // TODO add your handling code here:
         MainPane.setSelectedIndex(1);
+        System.out.println("hello")
     }//GEN-LAST:event_btnSignupActionPerformed
 
     private void btnLoginActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnLoginActionPerformed
